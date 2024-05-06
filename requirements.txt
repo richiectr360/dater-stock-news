@@ -1,1 +1,10 @@
-
+numpy
+pandas
+scikit-learn
+plotly
+openai
+langchain
+embedchain
+streamlit
+requests
+yfinance
