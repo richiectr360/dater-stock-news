@@ -8,3 +8,4 @@ embedchain
 streamlit
 requests
 yfinance
+python-dotenv
