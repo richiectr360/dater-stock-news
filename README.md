@@ -3,6 +3,14 @@
 ## Overview
 The Dater Trading Bot is a sophisticated Streamlit web application that leverages AI to provide traders and financial analysts with real-time financial data and news updates. This tool is designed to streamline the decision-making process in financial markets by offering timely insights and comprehensive data visualization.
 
+# Demonstration
+
+![Dater Application Screenshot1](https://github.com/richiectr360/dater-stock-news/blob/main/screenshots/1.png?raw=true)
+![Dater Application Screenshot2](https://github.com/richiectr360/dater-stock-news/blob/main/screenshots/2.png?raw=true)
+![Dater Application Screenshot3](https://github.com/richiectr360/dater-stock-news/blob/main/screenshots/3.png?raw=true)
+![Dater Application Screenshot4](https://github.com/richiectr360/dater-stock-news/blob/main/screenshots/4.png?raw=true)
+
+
 ## Problem
 The financial markets move quickly, and staying informed with the most current data and news is critical for traders and financial analysts. However, the vast amount of information available can be overwhelming, and traditional methods of gathering and analyzing financial data and news are often time-consuming and inefficient. The key challenges include:
 - Difficulty in quickly obtaining relevant and accurate stock symbols and financial data.
